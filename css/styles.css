@@ -1,0 +1,29 @@
+body
+{
+    background-color:darkseagreen;
+}
+
+h1
+{
+    background-color: rgb(221, 165, 188);
+    text-decoration: green wavy underline;
+    text-decoration: underline overline #cd89de;
+    text-emphasis-position: over right;
+    
+}
+img
+{
+    width: 100%
+   
+}
+
+#imageGallery
+{
+    display: grid;
+    grid-column: 1 / span 2;
+        
+}
+
+p {
+    font-family: serif;
+  }
