@@ -13,14 +13,14 @@ h1
 }
 img
 {
-    width: 100%
+    width: 50%
    
 }
 
 #imageGallery
 {
     display: grid;
-    grid-column: 1 / span 2;
+    grid-area: 30% 50% 30%
         
 }
 
